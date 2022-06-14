@@ -21,3 +21,13 @@ const generateId = () => {
 }
 ```
 ========
+##### Education:
+* __Belarusian State University of Informatics and Radioelectronics__
++ Software Engineer
+* __Corses TeachMeSkills__
++ Frontend developer
+========
+##### Languages
+* Russian - native
+* English - A1 (in progress)
+=========
